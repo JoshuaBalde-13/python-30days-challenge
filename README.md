@@ -8,8 +8,7 @@ generic exercises.
 
 ## Goal
 
-Ship a small, real repo update every day — even a simple one. Consistency
-over perfection.
+Ship a small, real repo update every day — even a simple one.
 
 ## Roadmap
 
@@ -37,18 +36,6 @@ over perfection.
 - [ ] Day 19 — Pandas — Grouping & Aggregation
 - [ ] Day 20 — Pandas — Merging/Joining datasets
 - [ ] Day 21+ — Mini data projects, review, and stretch challenges
-
-*(Roadmap will adjust as we go — SQL starts after this Python phase.)*
-
-## Structure
-
-Each day has its own folder:
-
-```
-dayNN_topic_name/
-├── challenge.md      # the problem(s) for the day
-└── solution.py        # my solution
-```
 
 ## Progress Log
 
