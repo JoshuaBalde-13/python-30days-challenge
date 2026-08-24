@@ -37,12 +37,3 @@ Print each variable and its type using `type()`.
    (don't use pandas yet — just built-in Python).
 4. Bonus: convert one employee's `age` (int) to a `str` and concatenate it
    into a sentence, e.g. `"Juan is 28 years old"`.
-
-## Submission
-Write your solution in `solution.py` in this folder, then commit and push:
-
-```
-git add day01_variables_types/
-git commit -m "Day 01: variables, data types, built-in functions"
-git push
-```
