@@ -53,10 +53,3 @@ performance_score = 8.5  # out of 10
    ```
 4. Bonus: rewrite that same expression using parentheses so it evaluates
    to a **different** result than the original, and print both to compare.
-
-## Submission
-```
-git add day02_operators/
-git commit -m "Day 02: operators"
-git push
-```
