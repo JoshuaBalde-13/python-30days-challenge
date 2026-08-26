@@ -51,5 +51,3 @@ performance_score = 8.5  # out of 10
    ```python
    result = 10 + 5 * 2 - 3 ** 2
    ```
-4. Bonus: rewrite that same expression using parentheses so it evaluates
-   to a **different** result than the original, and print both to compare.
