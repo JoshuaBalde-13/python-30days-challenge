@@ -58,10 +58,3 @@ employees = [
    directly reassigning that nested index (e.g.
    `employees[0][2] = "New Role"` pattern) — don't use `.replace()`,
    that's a string method, not a list method.
-
-## Submission
-```
-git add day04_lists/
-git commit -m "Day 04: lists"
-git push
-```
