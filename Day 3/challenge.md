@@ -47,7 +47,7 @@ email = "yourgmail@gmail.com"
    characters, e.g.:
    ```
    Name: Your name
-   Email: joshua.balde@gmail.com
+   Email: yourgmail@gmail.com
    Skills: Python, SQL, Excel
    ```
    (all in a single f-string using `\n` to break lines)
