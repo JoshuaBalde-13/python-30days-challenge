@@ -14,7 +14,7 @@ manipulating text.
 
 ## Exercise 1 — Level 1 (Warm-up)
 ```python
-full_name = "  Joshua Balde  "
+full_name = "  Your name  "
 ```
 1. Print the string with whitespace removed (`.strip()`).
 2. Print it fully uppercase, then fully lowercase.
@@ -24,7 +24,7 @@ full_name = "  Joshua Balde  "
 
 ## Exercise 2 — Level 2 (Slicing + methods)
 ```python
-email = "joshua.balde@gmail.com"
+email = "yourgmail@gmail.com"
 ```
 1. Use slicing to extract and print just the username part (before the
    `@`) — don't hardcode the position number, find `@` first using
@@ -46,7 +46,7 @@ email = "joshua.balde@gmail.com"
 2. Build a multi-line employee summary using an f-string and `\n` escape
    characters, e.g.:
    ```
-   Name: Joshua Balde
+   Name: Your name
    Email: joshua.balde@gmail.com
    Skills: Python, SQL, Excel
    ```
