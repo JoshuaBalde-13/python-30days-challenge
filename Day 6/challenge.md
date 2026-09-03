@@ -57,7 +57,3 @@ raw_ages = [24, 31, 28, 31, 24, 45, 19, 31]
    original — hint: `team_a.copy()`) and print what got removed. Since
    sets are unordered, note that `.pop()` removes an *arbitrary* item, not
    a specific one.
-4. Bonus (short written answer, as a comment): in your own words, why
-   would a data engineer prefer converting a list to a set when checking
-   for duplicate entries in a dataset, instead of manually looping through
-   and comparing each item?
